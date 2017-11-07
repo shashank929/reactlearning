@@ -2,7 +2,7 @@ import React,{Component} from 'react';
 import SearchInput from './SearchInput';
 import SearchResults from './SearchResults';
 import Youtube from 'youtube-api-search';
-import Imdb from 'imdb-api';
+//import Imdb from 'imdb-api';
 
 export default class SearchApp extends Component{
     constructor(props){
